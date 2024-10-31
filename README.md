@@ -11,3 +11,5 @@ Sandhu, S., Gulrez, T., & Mansell, W. (2020). Behavioral anatomy of a hunt: usin
 
 
 Realisation of the PCT Model on the human data and its comparison with other machine learning classical agorithms.
+
+1. 
