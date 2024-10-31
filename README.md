@@ -8,3 +8,6 @@ predatorprey.xls is data file
 This research has been published in the following paper:
 
 Sandhu, S., Gulrez, T., & Mansell, W. (2020). Behavioral anatomy of a hunt: using dynamic real-world paradigm and computer vision to compare human user-generated strategies with prey movement varying in predictability. Attention, Perception, & Psychophysics, 82, 3112-3123.
+
+
+Realisation of the PCT Model on the human data and its comparison with other machine learning classical agorithms.
